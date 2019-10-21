@@ -6,8 +6,8 @@ Dev-pBox is an MIT-licensed open source project with its ongoing development mad
 ## How to contribute
  1. Make a Fork.
  2. Clone the repository to your local desktop.
- 3. Select the folder(what you are creating)
- 4. Create new folder inside the selected folder and give it a name (It's necessary).
+ 3. You Can Select the folder(what you are creating)
+ 4. Yeo Can Create new folder and give it a name (It's necessary).
  5. Make changes and Add to Staging here.
  6. Commit changes [always write the message short and easy to understand (ideally 3 to 5 words).]
  7. Push the changes so that Pull request will be generated.
